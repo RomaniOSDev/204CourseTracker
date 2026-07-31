@@ -1,0 +1,6 @@
+framework module Pods_204CourseTracker {
+  umbrella header "Pods-204CourseTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
